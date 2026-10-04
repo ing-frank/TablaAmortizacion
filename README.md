@@ -2,8 +2,10 @@
 
 Aplicación de consola en C# que calcula y muestra la tabla de amortización de un préstamo con cuotas fijas, usando la librería Spectre.Console.
 
-**Estudiante:** Frank Alberto Sherivé
-**Matrícula:** LR-2025-03023
+**Estudiante:** Manuel Alexander Johnson Cedeño  
+**Matrícula:** LR-16-10010  
+**Asignatura:** Lenguaje de Programación 2  
+**Profesor:** Javier Vilorio Green  
 **Universidad:** UFHEC, La Romana
 
 ## Qué hace
